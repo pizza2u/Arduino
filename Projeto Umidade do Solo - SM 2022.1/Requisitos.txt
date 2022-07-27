@@ -1,0 +1,12 @@
+Funcionalidade: avaliar a umidade de uma amostra de solo, de maneira rápida, em laboratório, informando 3 níveis por meio de LEDs: baixo, médio, alto. Os níveis correspondem a uma determinada quantidade padrão adicionada de água em uma amostra de solo colocada em um copo ou pote
+
+Pontos: Para o módulo utilizado foi preciso utilizar um divisor de tensão. Foi utilizado um sensor de umidade capacitivo.
+
+Requisitos:
+Com 3 LEDS que indiquem o modo de operação: Para vermelho: terra seca
+Para verde: terra úmida
+Para branco: terra molhada
+
+Para cada LED indicado deve ter um tom diferente no buzzer
+
+Nota: No vídeo não ficou tão claro por questões de barulho ao redor, mas o buzzer alterou junto com o LED.
