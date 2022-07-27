@@ -1,0 +1,6 @@
+No lugar de um LDR, foi colocado um NTC (sensor de temperatura)
+
+Quando a temperatura da água estiver ABAIXO do limiar, o LED 1 deve ficar ACESO;
+Quando a temperatura da água estiver ACIMA do limiar, o LED 1 deve ficar APAGADO e o LED 2 deve ficar ACESO.
+
+TEMPERATURA-LIMIAR DO GRUPO: 43 ºC
